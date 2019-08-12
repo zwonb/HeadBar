@@ -1,8 +1,16 @@
 # HeadBar
 Android 标题栏
 
-HeadBar
-[ ![Download](https://api.bintray.com/packages/zwonb/maven/head_bar_ktx/images/download.svg) ](https://bintray.com/zwonb/maven/head_bar_ktx/_latestVersion)
+[![](https://jitpack.io/v/zwonb/head-bar-ktx.svg)](https://jitpack.io/#zwonb/head-bar-ktx)
 ```java
-implementation "com.zwonb:head_bar_ktx:latestVersion"
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+
+dependencies {
+	implementation 'com.github.zwonb:head-bar-ktx:Tag'
+}
 ```
