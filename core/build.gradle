@@ -30,7 +30,7 @@ publish {
     userOrg = 'zwonb'//bintray.com用户名
     groupId = 'com.zwonb'//jcenter上的路径
     artifactId = 'head_bar_ktx'//项目名称
-    publishVersion = '0.0.1'//版本号
+    publishVersion = '0.0.2'//版本号
     desc = '标题栏'//描述，不重要
     website = 'https://github.com/zwonb/HeadBar'//网站，不重要；github上的地址
 }
