@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="head_bar_bg">#0085D0</color>
+    <color name="head_bar_mask_bg">#BEEEEEEE</color>
+    <color name="head_bar_back_bg">#BEDADADA</color>
+</resources>
